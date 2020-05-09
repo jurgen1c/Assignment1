@@ -1,0 +1,30 @@
+body
+{
+    padding: -15%;
+    display: flex;
+}
+#main-logo
+{
+    margin: 50%;
+    display: flex;
+}
+ul
+{
+    align-content: space-between;
+}
+h2
+{
+    font-size: 25px;
+}
+button
+{
+    font-size: 25px;
+    width: 50px;
+    height: 35px;
+    align-self: center;
+    color: gray;
+}
+button:hover
+{
+    color: lightgray;
+}
